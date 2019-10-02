@@ -1,0 +1,12 @@
+D:\Desarrollo\iteki_GO\BusinessLayer\ValueObjects\bin\Debug\iteki.GO.BusinessLayer.ValueObjects.dll.config
+D:\Desarrollo\iteki_GO\BusinessLayer\ValueObjects\bin\Debug\iteki.GO.BusinessLayer.ValueObjects.dll
+D:\Desarrollo\iteki_GO\BusinessLayer\ValueObjects\bin\Debug\iteki.GO.BusinessLayer.ValueObjects.pdb
+D:\Desarrollo\iteki_GO\BusinessLayer\ValueObjects\obj\Debug\iteki.GO.BusinessLayer.ValueObjects.dll
+D:\Desarrollo\iteki_GO\BusinessLayer\ValueObjects\obj\Debug\iteki.GO.BusinessLayer.ValueObjects.pdb
+D:\Desarrollo\iteki_GO\BusinessLayer\ValueObjects\obj\Debug\iteki.GO.ValueObjects.csprojResolveAssemblyReference.cache
+D:\Proyectos\Iteki\GO\BusinessLayer\ValueObjects\bin\Debug\iteki.GO.BusinessLayer.ValueObjects.dll.config
+D:\Proyectos\Iteki\GO\BusinessLayer\ValueObjects\bin\Debug\iteki.GO.BusinessLayer.ValueObjects.dll
+D:\Proyectos\Iteki\GO\BusinessLayer\ValueObjects\bin\Debug\iteki.GO.BusinessLayer.ValueObjects.pdb
+D:\Proyectos\Iteki\GO\BusinessLayer\ValueObjects\obj\Debug\iteki.GO.ValueObjects.csprojAssemblyReference.cache
+D:\Proyectos\Iteki\GO\BusinessLayer\ValueObjects\obj\Debug\iteki.GO.BusinessLayer.ValueObjects.dll
+D:\Proyectos\Iteki\GO\BusinessLayer\ValueObjects\obj\Debug\iteki.GO.BusinessLayer.ValueObjects.pdb

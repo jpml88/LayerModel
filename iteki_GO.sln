@@ -1,0 +1,66 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BusinessLayer", "BusinessLayer", "{2727B952-FEC9-4D03-959B-F2D6682FA1DB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DataLayer", "DataLayer", "{6A2868B7-277C-4448-BCE6-93D5FA5BCEBE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iteki.GO.ValueObjects", "BusinessLayer\ValueObjects\iteki.GO.ValueObjects.csproj", "{A81A28DF-071D-4C75-AECB-0DAD6A44A7CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iteki.GO.DataObjects", "DataLayer\iteki.GO.DataObjects.csproj", "{A6373B96-E39A-40AA-9913-EF381188C45D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iteki.GO", "WS\iteki.GO.csproj", "{04E07165-8999-4C51-A699-65CC2E33B6B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Release|.NET = Release|.NET
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A81A28DF-071D-4C75-AECB-0DAD6A44A7CF}.Debug|.NET.ActiveCfg = Debug|Any CPU
+		{A81A28DF-071D-4C75-AECB-0DAD6A44A7CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A81A28DF-071D-4C75-AECB-0DAD6A44A7CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A81A28DF-071D-4C75-AECB-0DAD6A44A7CF}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{A81A28DF-071D-4C75-AECB-0DAD6A44A7CF}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{A81A28DF-071D-4C75-AECB-0DAD6A44A7CF}.Release|.NET.ActiveCfg = Release|Any CPU
+		{A81A28DF-071D-4C75-AECB-0DAD6A44A7CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A81A28DF-071D-4C75-AECB-0DAD6A44A7CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A81A28DF-071D-4C75-AECB-0DAD6A44A7CF}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{A81A28DF-071D-4C75-AECB-0DAD6A44A7CF}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{A6373B96-E39A-40AA-9913-EF381188C45D}.Debug|.NET.ActiveCfg = Debug|Any CPU
+		{A6373B96-E39A-40AA-9913-EF381188C45D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6373B96-E39A-40AA-9913-EF381188C45D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6373B96-E39A-40AA-9913-EF381188C45D}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{A6373B96-E39A-40AA-9913-EF381188C45D}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{A6373B96-E39A-40AA-9913-EF381188C45D}.Release|.NET.ActiveCfg = Release|Any CPU
+		{A6373B96-E39A-40AA-9913-EF381188C45D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6373B96-E39A-40AA-9913-EF381188C45D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6373B96-E39A-40AA-9913-EF381188C45D}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{A6373B96-E39A-40AA-9913-EF381188C45D}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{04E07165-8999-4C51-A699-65CC2E33B6B0}.Debug|.NET.ActiveCfg = Debug|Any CPU
+		{04E07165-8999-4C51-A699-65CC2E33B6B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04E07165-8999-4C51-A699-65CC2E33B6B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04E07165-8999-4C51-A699-65CC2E33B6B0}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{04E07165-8999-4C51-A699-65CC2E33B6B0}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{04E07165-8999-4C51-A699-65CC2E33B6B0}.Release|.NET.ActiveCfg = Release|Any CPU
+		{04E07165-8999-4C51-A699-65CC2E33B6B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04E07165-8999-4C51-A699-65CC2E33B6B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04E07165-8999-4C51-A699-65CC2E33B6B0}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{04E07165-8999-4C51-A699-65CC2E33B6B0}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A81A28DF-071D-4C75-AECB-0DAD6A44A7CF} = {2727B952-FEC9-4D03-959B-F2D6682FA1DB}
+		{A6373B96-E39A-40AA-9913-EF381188C45D} = {6A2868B7-277C-4448-BCE6-93D5FA5BCEBE}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		VisualSVNWorkingCopyRoot = .
+	EndGlobalSection
+EndGlobal
